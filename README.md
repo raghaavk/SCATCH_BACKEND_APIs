@@ -185,5 +185,5 @@ Responses follow this structure for errors:
 This documentation covers the primary API endpoints for the SCATCH backend. Future updates may include payment integration and improved security measures.
 
 ---
-**Developed by Abhinav Mishra**
+**Developed by Raghav Kapoor**
 
